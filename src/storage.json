@@ -286,4 +286,60 @@
         "price": 759.99,
         "name": "Teclado Sem fio Akko 3084B Plus World Tour Tokyo, RGB, Switch Jelly Purple ANSI"
     },
+    {
+        "id": 41,
+        "type": "mouse",
+        "brand": "logitech",
+        "price": 49.99,
+        "name": "Mouse Sem Fio Logitech M220 com Clique Silencioso"
+    },
+    {
+        "id": 42,
+        "type": "mouse",
+        "brand": "logitech",
+        "price": 69.99,
+        "name": "Mouse Logitech M185 Sem Fio Cinza 1000DPI"
+    },
+    {
+        "id": 43,
+        "type": "mouse",
+        "brand": "logitech",
+        "price": 499.99,
+        "name": "Mouse Gamer Sem Fio Logitech G502 LIGHTSPEED RGB LIGHTSYNC"
+    },
+    {
+        "id": 44,
+        "type": "mouse",
+        "brand": "logitech",
+        "price": 609.99,
+        "name": "Mouse Gamer Sem Fio Logitech G903 LIGHTSPEED RGB LIGHTSYNC"
+    },
+    {
+        "id": 45,
+        "type": "mouse",
+        "brand": "razer",
+        "price": 742.12,
+        "name": "Razer Mouse Basilisk V2"
+    },
+    {
+        "id": 46,
+        "type": "mouse",
+        "brand": "razer",
+        "price": 249.99,
+        "name": "Mouse Gamer Razer Deathadder V2 Chroma, Optical Switch, 20000 DPI"
+    },
+    {
+        "id": 47,
+        "type": "mouse",
+        "brand": "corsair",
+        "price": 211.51,
+        "name": "Mouse Gamer Corsair Scimitar Pro, 17 Botões, 16.000 DPI"
+    },
+    {
+        "id": 48,
+        "type": "mouse",
+        "brand": "corsair",
+        "price": 599.99,
+        "name": "Mouse Gamer Corsair Ironclaw Wireless, RGB, 10 Botões, 18000DPI"
+    },
 ]
