@@ -229,5 +229,61 @@
         "brand": "asus",
         "price": 3299.99,
         "name": "Monitor Gamer Asus TUF 31.5 Curvo LED Full HD, 165 Hz, 1ms"
-    }
+    },
+    {
+        "id": 33,
+        "type": "keyboard",
+        "brand": "razer",
+        "price": 1999.99,
+        "name": "Teclado Sem Fio Mecânico Gamer Razer BlackWidow V3 Pro, Chroma, Razer Switch Green, US"
+    },
+    {
+        "id": 34,
+        "type": "keyboard",
+        "brand": "logitech",
+        "price": 1979.10,
+        "name": "Teclado Gamer Logitech G915 Carbon Tkl S/fio Bluetooth Mecânico Us"
+    },
+    {
+        "id": 35,
+        "type": "keyboard",
+        "brand": "apex",
+        "price": 1959.00,
+        "name": "Teclado Gamer Apex 7 Brown Switch Steelseries"
+    },
+    {
+        "id": 36,
+        "type": "keyboard",
+        "brand": "razer",
+        "price": 1865.48,
+        "name": "Teclado Razer, Blackwidow V3 Pro, Bluetooth, Mecânico, Switch Green"
+    },
+    {
+        "id": 37,
+        "type": "keyboard",
+        "brand": "corsair",
+        "price": 899.99,
+        "name": "Teclado Mecânico Gamer Corsair K70 RGB, Switch Cherry MX Speed, US"
+    },
+    {
+        "id": 38,
+        "type": "keyboard",
+        "brand": "logitech",
+        "price": 899.00,
+        "name": "Teclado Mecânico Logitech, G413 Tkl Se"
+    },
+    {
+        "id": 39,
+        "type": "keyboard",
+        "brand": "logitech",
+        "price": 799.99,
+        "name": "Teclado Sem Fio Logitech G915, Switch GL Tactile"
+    },
+    {
+        "id": 40,
+        "type": "keyboard",
+        "brand": "akko",
+        "price": 759.99,
+        "name": "Teclado Sem fio Akko 3084B Plus World Tour Tokyo, RGB, Switch Jelly Purple ANSI"
+    },
 ]
