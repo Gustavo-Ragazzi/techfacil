@@ -587,4 +587,39 @@
         "price": 799.99,
         "name": "Gabinete Gamer Rise Mode Galaxy Glass, Mid Tower"
     },
+    {
+        "id": 84,
+        "type": "chair",
+        "brand": "prizi",
+        "price": 159.90,
+        "name": "Cadeira De Escritorio Prizi Venice Com Base Cromada"
+    },
+    {
+        "id": 85,
+        "type": "chair",
+        "brand": "husky",
+        "price": 949.99,
+        "name": "Cadeira Gamer Husky Gaming Tempest 500, Preto, Com Almofadas"
+    },
+    {
+        "id": 86,
+        "type": "chair",
+        "brand": "mymax",
+        "price": 685.94,
+        "name": "Cadeira Gamer Mymax Mx5"
+    },
+    {
+        "id": 87,
+        "type": "chair",
+        "brand": "alpha gamer",
+        "price": 1249.99,
+        "name": "Cadeira Gamer Alpha Gamer Nebula Fabric"
+    },
+    {
+        "id": 88,
+        "type": "chair",
+        "brand": "mymax",
+        "price": 710.15,
+        "name": "Cadeira Gamer Mymax Mx5"
+    },
 ]
