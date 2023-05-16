@@ -657,4 +657,25 @@
         "price": 564.99,
         "name": "Placa Mãe Asus Prime A520M-E, AMD AM4, mATX, DDR4"
     },
+    {
+        "id": 94,
+        "type": "headset",
+        "brand": "jabra",
+        "price": 3239.10,
+        "name": "Jabra Empresarial Evolve 80 Uc Stereo Headset"
+    },
+    {
+        "id": 95,
+        "type": "headset",
+        "brand": "poly",
+        "price": 2519.82,
+        "name": "Headset Sem Fio Poly Empresarial Voyager Focus 2, Bluetooth, USB-A"
+    },
+    {
+        "id": 96,
+        "type": "headset",
+        "brand": "logitech",
+        "price": 1459.00,
+        "name": "Headset Logitech, G733, 7.1, RGB, Sem Fio, USB, Branco"
+    }
 ]
