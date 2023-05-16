@@ -545,4 +545,46 @@
         "price": 12984.21,
         "name": "Processador AMD Ryzen Threadripper PRO 5965WX, 4.5GHz, Cache 140MB"
     },
+    {
+        "id": 78,
+        "type": "case",
+        "brand": "risemode",
+        "price": 279.99,
+        "name": "Gabinete Gamer Rise Mode Glass 06X, Mid Tower"
+    },
+    {
+        "id": 79,
+        "type": "case",
+        "brand": "risemode",
+        "price": 799.99,
+        "name": "Gabinete Gamer Rise Mode Galaxy Glass, Mid Tower"
+    },
+    {
+        "id": 80,
+        "type": "case",
+        "brand": "bluecase",
+        "price": 149.99,
+        "name": "Gabinete Gamer Bluecase Mini Tower"
+    },
+    {
+        "id": 81,
+        "type": "case",
+        "brand": "risemode",
+        "price": 179.99,
+        "name": "Gabinete Gamer Rise Mode Z1 Glass, RGB"
+    },
+    {
+        "id": 82,
+        "type": "case",
+        "brand": "risemode",
+        "price": 349.99,
+        "name": "Gabinete Gamer Rise Mode Glass 06X Frost, Mid Tower"
+    },
+    {
+        "id": 83,
+        "type": "case",
+        "brand": "risemode",
+        "price": 799.99,
+        "name": "Gabinete Gamer Rise Mode Galaxy Glass, Mid Tower"
+    },
 ]
