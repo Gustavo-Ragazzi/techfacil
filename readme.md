@@ -17,7 +17,7 @@ Dark/Day Mode
 Nome do produto + Valor
 Tentar pegar:
 8 Ram
-15 Placas de vídeo
+15 GPU
 8 Monitores
 8 Teclados
 8 Mouses

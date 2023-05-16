@@ -1,0 +1,177 @@
+[
+    {
+        "id": 0,
+        "type": "ram",
+        "brand": "kingston",
+        "price": 159.99,
+        "name": "Memória Kingston Fury Beast, 8Gb, 3200MHz, DDR4"
+    },
+    {
+        "id": 1,
+        "type": "ram",
+        "brand": "gammix",
+        "price": 159.99,
+        "name": "Memória XPG Gammix D10 8GB, 3200MHz, DDR4"
+    },
+    {
+        "id": 2,
+        "type": "ram",
+        "brand": "husky",
+        "price": 129.99,
+        "name": "Memória Gamer Husky Gaming, 8GB, 2666MHz, DDR4"
+    },
+    {
+        "id": 3,
+        "type": "ram",
+        "brand": "husky",
+        "price": 275.99,
+        "name": "Memória Gamer Husky Gaming Avalanche, 16GB, 3200MHz, DDR4"
+    },
+    {
+        "id": 4,
+        "type": "ram",
+        "brand": "kingston",
+        "price": 309.99,
+        "name": "Memória Kingston Fury Beast, RGB, 16GB, 3200MHz, DDR4"
+    },
+    {
+        "id": 5,
+        "type": "ram",
+        "brand": "kingston",
+        "price": 149.99,
+        "name": "Memória Kingston Fury Impact, 8GB, 3200MHz, DDR4"
+    },
+    {
+        "id": 6,
+        "type": "ram",
+        "brand": "corsair",
+        "price": 489.99,
+        "name": "Memória Corsair Vengeance, 32GB (2x16GB), 5600MHz, DDR5"
+    },
+    {
+        "id": 7,
+        "type": "ram",
+        "brand": "xpg",
+        "price": 609.99,
+        "name": "Memória XPG Lancer, RGB, 16GB, 6000MHz, DDR5"
+    },
+    {
+        "id": 8,
+        "type": "ram",
+        "brand": "kingston",
+        "price": 759.99,
+        "name": "Memória Kingston Fury Beast para Intel XMP, RGB, 16GB, 6000MHz, DDR5"
+    },
+    {
+        "id": 9,
+        "type": "gpu",
+        "brand": "amd",
+        "price": 7359.99,
+        "name": "Placa de Vídeo RX 7900 XTX Phantom Gaming ASRock AMD, 24 GB GDDR6"
+    },
+    {
+        "id": 10,
+        "type": "gpu",
+        "brand": "amd",
+        "price": 2283.99,
+        "name": "Placa de Vídeo RX 6600 XT Challenger D 8G OC ASRock AMD Radeon, 8GB GDDR6"
+    },
+    {
+        "id": 11,
+        "type": "gpu",
+        "brand": "amd",
+        "price": 2699.99,
+        "name": "Placa de Vídeo RX 6750 XT Mech 2X 12G OC MSI AMD, 12 GB GDDR6"
+    },
+    {
+        "id": 12,
+        "type": "gpu",
+        "brand": "amd",
+        "price": 1559.99,
+        "name": "Placa de Vídeo RX 6600 CLD 8G ASRock AMD Radeon, 8GB, GDDR6"
+    },
+    {
+        "id": 13,
+        "type": "gpu",
+        "brand": "amd",
+        "price": 2837.99,
+        "name": "Placa de Vídeo PowerColor Fighter AMD Radeon RX 6700 XT, 16Gbps, 12GB GDDR6"
+    },
+    {
+        "id": 14,
+        "type": "gpu",
+        "brand": "amd",
+        "price": 609.99,
+        "name": "Placa de Vídeo RX 550 Radeon Graffiti Series Pcyes AMD, 4 GB GDDR5"
+    },
+    {
+        "id": 15,
+        "type": "gpu",
+        "brand": "nvidia",
+        "price": 11599.99,
+        "name": "Placa de Vídeo RTX 4090 Gaming Trio MSI NVIDIA GeForce, 24 GB GDDR6X"
+    },
+    {
+        "id": 16,
+        "type": "gpu",
+        "brand": "nvidia",
+        "price": 8358.99,
+        "name": "Placa de Vídeo RTX 4080 SG 1-Click OC GALAX GeForce, 16 GB GDDR6X"
+    },
+    {
+        "id": 17,
+        "type": "gpu",
+        "brand": "nvidia",
+        "price": 9349.99,
+        "name": "Placa de Vídeo RTX 4080 Gaming OC Gigabyte NVIDIA GeForce, 16 GB GDDR6X"
+    },
+    {
+        "id": 18,
+        "type": "gpu",
+        "brand": "nvidia",
+        "price": 8964.99,
+        "name": "Placa de Vídeo RTX 4080 TUF OC Edition Asus NVIDIA GeForce, 16 GB GDDR6X"
+    },
+    {
+        "id": 19,
+        "type": "gpu",
+        "brand": "nvidia",
+        "price": 5883.99,
+        "name": "Placa de Vídeo RTX 4070 Gaming X TRIO 12G MSI NVIDIA GeForce, 12 GB GDDR6X"
+    },
+    {
+        "id": 20,
+        "type": "gpu",
+        "brand": "nvidia",
+        "price": 5524.99,
+        "name": "Placa de Vídeo RTX 4070 VENTUS 2X MSI NVIDIA GeForce, 12 GB OC GDDR6X"
+    },
+    {
+        "id": 21,
+        "type": "gpu",
+        "brand": "nvidia",
+        "price": 6999.99,
+        "name": "Placa de Vídeo RTX 4070 Ti Ventus MSI NVIDIA GeForce, 12 GB GDDR6X"
+    },
+    {
+        "id": 22,
+        "type": "gpu",
+        "brand": "nvidia",
+        "price": 1.22,
+        "name": ""
+    },
+    {
+        "id": 23,
+        "type": "gpu",
+        "brand": "nvidia",
+        "price": 1.22,
+        "name": ""
+    },
+    {
+        "id": 24,
+        "type": "gpu",
+        "brand": "nvidia",
+        "price": 1.22,
+        "name": ""
+    }
+]
