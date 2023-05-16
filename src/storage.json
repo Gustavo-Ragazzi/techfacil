@@ -622,4 +622,39 @@
         "price": 710.15,
         "name": "Cadeira Gamer Mymax Mx5"
     },
+    {
+        "id": 89,
+        "type": "motherboard",
+        "brand": "msi",
+        "price": 429.99,
+        "name": "Placa Mãe MSI A520M-A PRO, AMD AM4, mATX, DDR4"
+    },
+    {
+        "id": 90,
+        "type": "motherboard",
+        "brand": "gigabyte",
+        "price": 909.99,
+        "name": "Placa Mãe Gigabyte B550M Aorus Elite, AMD AM4, Micro ATX, DDR4"
+    },
+    {
+        "id": 91,
+        "type": "motherboard",
+        "brand": "asus",
+        "price": 699.99,
+        "name": "Placa Mãe Asus TUF GAMING A520M-PLUS II, AMD AM4, mATX, DDR4"
+    },
+    {
+        "id": 92,
+        "type": "motherboard",
+        "brand": "gigabyte",
+        "price": 629.99,
+        "name": "Placa Mãe Gigabyte B450M Gaming, AMD AM4, mATX, DDR4"
+    },
+    {
+        "id": 93,
+        "type": "motherboard",
+        "brand": "asus",
+        "price": 564.99,
+        "name": "Placa Mãe Asus Prime A520M-E, AMD AM4, mATX, DDR4"
+    },
 ]
