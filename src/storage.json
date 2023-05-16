@@ -342,4 +342,116 @@
         "price": 599.99,
         "name": "Mouse Gamer Corsair Ironclaw Wireless, RGB, 10 Botões, 18000DPI"
     },
+    {
+        "id": 49,
+        "type": "ssd",
+        "brand": "kingston",
+        "price": 127.99,
+        "name": "SSD 240 GB Kingston A400, SATA, Leitura: 500MB/s e Gravação: 350MB/s"
+    },
+    {
+        "id": 50,
+        "type": "ssd",
+        "brand": "kingston",
+        "price": 209.99,
+        "name": "SSD 480 GB Kingston A400, SATA, Leitura: 500MB/s e Gravação: 450MB/s"
+    },
+    {
+        "id": 51,
+        "type": "ssd",
+        "brand": "husky",
+        "price": 84.99,
+        "name": "SSD 128 GB Husky Gaming, SATA III, Leitura: 570MB/s e Gravação: 500MB/s"
+    },
+    {
+        "id": 52,
+        "type": "ssd",
+        "brand": "husky",
+        "price": 129.99,
+        "name": "SSD 256 GB Husky Gaming, SATA III, Leitura: 570MB/s e Gravação: 500MB/s"
+    },
+    {
+        "id": 53,
+        "type": "ssd",
+        "brand": "kingston",
+        "price": 364.99,
+        "name": "SSD 960 GB Kingston A400, SATA, Leitura: 500MB/s e Gravação: 450MB/s"
+    },
+    {
+        "id": 54,
+        "type": "ssd",
+        "brand": "wd",
+        "price": 215.99,
+        "name": "SSD 480 GB WD Green, SATA, Leitura: 545MB/s e Gravação: 430MB/s"
+    },
+    {
+        "id": 55,
+        "type": "hd",
+        "brand": "seagate",
+        "price": 419.99,
+        "name": "HD Seagate 4TB BarraCuda, 3.5', SATA"
+    },
+    {
+        "id": 56,
+        "type": "hd",
+        "brand": "seagate",
+        "price": 389.99,
+        "name": "HD Seagate 2TB BarraCuda, 3.5', SATA "
+    },
+    {
+        "id": 57,
+        "type": "hd",
+        "brand": "wd",
+        "price": 609.99,
+        "name": "HD WD Red 4TB NAS, 3.5', SATA, NAS/RAID"
+    },
+    {
+        "id": 58,
+        "type": "hd",
+        "brand": "wd",
+        "price": 609.99,
+        "name": "HD WD Red 4TB NAS, 3.5', SATA, NAS/RAID"
+    },
+    {
+        "id": 59,
+        "type": "hd",
+        "brand": "toshiba",
+        "price": 429.99,
+        "name": "HD Toshiba Surveillance S300, 4TB, SATA"
+    },
+    {
+        "id": 60,
+        "type": "nvme",
+        "brand": "xpg",
+        "price": 169.99,
+        "name": "SSD 256 GB XPG S41 TUF, M.2 PCIe NVME, HEATSINK, Leitura: 3500MB/s e Gravação: 1000MB/s"
+    },
+    {
+        "id": 61,
+        "type": "nvme",
+        "brand": "adata",
+        "price": 189.99,
+        "name": "SSD Adata Legend 710, 512GB, M.2 2280 PCIe GEN3x4, NVMe 1.4, Leitura: 2.400 MB/s e Gravação: 1.800 MB/s"
+    },
+    {
+        "id": 62,
+        "type": "nvme",
+        "brand": "kingston",
+        "price": 619.99,
+        "name": "SSD 1TB Kingston KC3000, M.2 2280 PCIe, NVMe, Leitura: 7000MB/s e Gravação: 6000MB/s"
+    },
+    {
+        "id": 63,
+        "type": "nvme",
+        "brand": "wd",
+        "price": 239.99,
+        "name": "SSD 480GB WD Green PC SN350, PCIe, NVMe, Leitura: 2400MB/s e Gravação: 1650MB/s"
+    },
+    {
+        "id": 64,
+        "type": "nvme",
+        "brand": "wd",
+        "price": 159.99,
+        "name": "SSD 240 GB WD Green PC SN350, PCIe, NVMe, Leitura: 2400MB/s e Gravação: 900MB/s"
+    },
 ]
