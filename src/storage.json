@@ -454,4 +454,39 @@
         "price": 159.99,
         "name": "SSD 240 GB WD Green PC SN350, PCIe, NVMe, Leitura: 2400MB/s e Gravação: 900MB/s"
     },
+    {
+        "id": 65,
+        "type": "power supply",
+        "brand": "msi",
+        "price": 379.99,
+        "name": "Fonte MSI MAG A650BN, ATX, 650W, 80 PLUS Bronze, PFC Ativo, Entrada Bivolt"
+    },
+    {
+        "id": 66,
+        "type": "power supply",
+        "brand": "xpg",
+        "price": 659.99,
+        "name": "Fonte XPG Core Reactor, 850W, 80 Plus Gold"
+    },
+    {
+        "id": 67,
+        "type": "power supply",
+        "brand": "gamemax",
+        "price": 269.99,
+        "name": "Fonte Gamemax, 600W, 80 Plus White, PFC Ativo, Bivolt"
+    },
+    {
+        "id": 68,
+        "type": "power supply",
+        "brand": "risemode",
+        "price": 219.99,
+        "name": "Fonte Gamer Rise Mode Atomic, 500W, Led Branco"
+    },
+    {
+        "id": 69,
+        "type": "power supply",
+        "brand": "msi",
+        "price": 619.99,
+        "name": "Fonte MSI MPG A750GF, 750W, 80 Plus Gold, Modular, PFC Ativo, Bivolt, Preto"
+    },
 ]
