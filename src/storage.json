@@ -489,4 +489,60 @@
         "price": 619.99,
         "name": "Fonte MSI MPG A750GF, 750W, 80 Plus Gold, Modular, PFC Ativo, Bivolt, Preto"
     },
+    {
+        "id": 70,
+        "type": "cpu",
+        "brand": "amd",
+        "price": 1449.99,
+        "name": "Processador AMD Ryzen 7 5800X, 3.8GHz (4.7GHz Max Turbo), Cache 36MB"
+    },
+    {
+        "id": 71,
+        "type": "cpu",
+        "brand": "amd",
+        "price": 1099.99,
+        "name": "Processador AMD Ryzen 5 5600G, 3.9GHz (4.4GHz Max Turbo), Cache 19MB"
+    },
+    {
+        "id": 72,
+        "type": "cpu",
+        "brand": "intel",
+        "price": 2159.99,
+        "name": "Processador Intel Core i7-12700K, 3.6GHz (5.0GHz Max Turbo), Cache 25MB, Vídeo Integrado"
+    },
+    {
+        "id": 73,
+        "type": "cpu",
+        "brand": "intel",
+        "price": 1039.99,
+        "name": "Processador Intel Core i5-12400F, 2.5GHz (4.4GHz Max Turbo), Cache 18MB"
+    },
+    {
+        "id": 74,
+        "type": "cpu",
+        "brand": "intel",
+        "price": 629.99,
+        "name": "Processador Intel Core i3-12100F, 3.3GHz (4.3GHz Max Turbo), Cache 12MB"
+    },
+    {
+        "id": 75,
+        "type": "cpu",
+        "brand": "intel",
+        "price": 3749.99,
+        "name": "Processador Intel Core i9-13900KF, 13ª Geração, 5.8GHz Max Turbo, Cache 36MB"
+    },
+    {
+        "id": 76,
+        "type": "cpu",
+        "brand": "intel",
+        "price": 2619.99,
+        "name": "Processador AMD Ryzen 9 7900, 5.4GHz Max Turbo, Cache 76MB"
+    },
+    {
+        "id": 77,
+        "type": "cpu",
+        "brand": "amd",
+        "price": 12984.21,
+        "name": "Processador AMD Ryzen Threadripper PRO 5965WX, 4.5GHz, Cache 140MB"
+    },
 ]

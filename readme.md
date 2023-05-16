@@ -25,7 +25,7 @@ Tentar pegar:
 5 HD
 5 Nvme
 8 Fontes
-10 Processadores
+8 Processadores
 6 Gabinetes
 5 Cadeiras
 5 Placas Mães
