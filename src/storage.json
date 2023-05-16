@@ -157,21 +157,77 @@
         "id": 22,
         "type": "gpu",
         "brand": "nvidia",
-        "price": 1.22,
-        "name": ""
+        "price": 16999.99,
+        "name": "Placa de Vídeo RTX 3090 Trinity Zotac NVIDIA GeForce, 24GB GDDR6X"
     },
     {
         "id": 23,
         "type": "gpu",
         "brand": "nvidia",
-        "price": 1.22,
-        "name": ""
+        "price": 4859.99,
+        "name": "Placa de Vídeo RTX 3080 XLR8 Gaming Revel Epic-X PNY NVIDIA GeForce, 10 GB GDDR6X"
     },
     {
         "id": 24,
         "type": "gpu",
         "brand": "nvidia",
-        "price": 1.22,
-        "name": ""
+        "price": 3644.99,
+        "name": "Placa de Vídeo RTX 3070 MSI Ventus 3X Plus NVIDIA GeForce, 8GB GDDR6"
+    },
+    {
+        "id": 25,
+        "type": "monitor",
+        "brand": "lg",
+        "price": 2099.99,
+        "name": "Monitor Gamer LG 34 LED Ultra Wide Curvo, 160 Hz, QHD, 1ms"
+    },
+    {
+        "id": 26,
+        "type": "monitor",
+        "brand": "husky",
+        "price": 1299.99,
+        "name": "Monitor Gamer Husky Storm 27' LED, Curvo, 165 Hz, Full HD, 1ms"
+    },
+    {
+        "id": 27,
+        "type": "monitor",
+        "brand": "husky",
+        "price": 499.99,
+        "name": "Monitor Husky 700 22 LED Full HD, 75Hz, HDMI e VGA"
+    },
+    {
+        "id": 28,
+        "type": "monitor",
+        "brand": "husky",
+        "price": 1099.99,
+        "name": "Monitor Gamer Husky Snow 23.6 LED Full HD, Curvo, 165Hz, 1ms"
+    },
+    {
+        "id": 29,
+        "type": "monitor",
+        "brand": "lg",
+        "price": 1599.99,
+        "name": "Monitor Gamer LG UltraGear 32 LED, 165 Hz, QHD, 1ms"
+    },
+    {
+        "id": 30,
+        "type": "monitor",
+        "brand": "samsung",
+        "price": 10663.75,
+        "name": "Monitor Samsung Odyssey Crg9, 49 Polegadas, Dual QHD, Curvo, 120hz, 4ms"
+    },
+    {
+        "id": 31,
+        "type": "monitor",
+        "brand": "asus",
+        "price": 3599.99,
+        "name": "Monitor Gamer Asus TUF 31.5 LED 2K QHD, Curvo, 144Hz, 1ms"
+    },
+    {
+        "id": 32,
+        "type": "monitor",
+        "brand": "asus",
+        "price": 3299.99,
+        "name": "Monitor Gamer Asus TUF 31.5 Curvo LED Full HD, 165 Hz, 1ms"
     }
 ]
