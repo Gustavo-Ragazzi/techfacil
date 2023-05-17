@@ -1,10 +1,12 @@
+import Header from "./components/Header"
+import MainCarousel from "./components/MainCarousel"
+
 function App() {
   return (
     <>
-      <div className="bg-cyan-100">
-        <h1 className="text-3xl font-bold underline">
-          Hello world!
-        </h1>
+      <div>
+        <Header />
+        <MainCarousel />
       </div>
     </>
   )
