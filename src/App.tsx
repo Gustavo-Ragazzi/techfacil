@@ -1,3 +1,5 @@
+import BannerCategory from "./components/BannerCategory"
+import Footer from "./components/Footer"
 import Header from "./components/Header"
 import ItemDisplayCarousel from "./components/ItemDisplayCarousel"
 import MainCarousel from "./components/MainCarousel"
@@ -11,7 +13,8 @@ function App() {
         <MainCarousel />
         <SectionTitle>Conheça nossos produtos</SectionTitle>
         <ItemDisplayCarousel />
-        <SectionTitle>Categorias</SectionTitle>
+        <BannerCategory />
+        <Footer />
       </div>
     </>
   )
