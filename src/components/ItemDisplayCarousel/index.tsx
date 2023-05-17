@@ -7,7 +7,7 @@ import { Pagination } from "swiper";
 
 export default function ItemDisplayCarousel() {
     return (
-        <>
+        <div className="bg-gray-200">
           <Swiper
             slidesPerView={1}
             spaceBetween={10}
@@ -41,7 +41,7 @@ export default function ItemDisplayCarousel() {
             <SwiperSlide><img src="./images/25.png" alt="MSI RTX4090" /></SwiperSlide>
             <SwiperSlide><img src="./images/26.png" alt="MSI RTX4090" /></SwiperSlide>
           </Swiper>
-          <p>ver todos</p>
-        </>
+          <p className="flex text-orange-500 font-bold justify-end text-lg mr-3"><a href="#">ver todos</a></p>
+        </div>
     );
 }
