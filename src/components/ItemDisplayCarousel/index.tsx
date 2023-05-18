@@ -7,7 +7,7 @@ import { Pagination } from "swiper";
 
 export default function ItemDisplayCarousel() {
     return (
-        <div className="bg-gray-200 shadow-lg">
+        <div className="bg-gray-200 shadow-lg px-5 ">
           <Swiper
             slidesPerView={1}
             spaceBetween={10}
