@@ -10,6 +10,7 @@ function App() {
     <>
       <div className="font-poppins">
         <Header />
+        <SectionTitle>Novidades</SectionTitle>
         <MainCarousel />
         <SectionTitle>Conheça nossos produtos</SectionTitle>
         <ItemDisplayCarousel />
