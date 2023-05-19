@@ -8,13 +8,15 @@ import SectionTitle from "./components/SectionTitle"
 function App() {
   return (
     <>
-      <div className="font-poppins">
+      <div className="font-poppins bg-gray-900">
         <Header />
-        <SectionTitle>Novidades</SectionTitle>
-        <MainCarousel />
-        <SectionTitle>Conheça nossos produtos</SectionTitle>
-        <ItemDisplayCarousel />
-        <BannerCategory />
+        <div className="lg:w-2/3 lg:m-auto bg-white">
+          <SectionTitle>Novidades</SectionTitle>
+          <MainCarousel />
+          <SectionTitle>Conheça nossos produtos</SectionTitle>
+          <ItemDisplayCarousel />
+          <BannerCategory />
+        </div>
         <Footer />
       </div>
     </>

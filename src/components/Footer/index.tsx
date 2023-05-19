@@ -10,7 +10,7 @@ export default function Footer() {
                 <a href="#"><FaTwitter /></a>
                 <a href="#"><FaYoutube /></a>
                 <a href="#"><FaLinkedin /></a>
-                <a href="#"><FaTwitter /></a>
+                <a href="#"><FaTiktok /></a>
             </div>
             <hr className="my-8"/>
             <h2 className="font-bold">Atendimento</h2>
