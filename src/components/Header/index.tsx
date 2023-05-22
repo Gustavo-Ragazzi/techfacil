@@ -12,10 +12,10 @@ export default function Header() {
     }
 
     return (
-        <header className="flex justify-between items-center p-3 gap-5 bg-gradient-to-r from-blue-900 from-55% to-blue-700 shadow-lg">
-            <button onClick={handleSidebar}><GiHamburgerMenu className="text-2xl text-white hover:text-gray-300"/></button> 
+        <header className="flex justify-between items-center p-3 py-8 gap-5 bg-gradient-to-r from-blue-900 from-55% to-blue-700 shadow-lg">
+            <button onClick={handleSidebar}><GiHamburgerMenu className="text-4xl text-white hover:text-gray-300"/></button> 
             <SearchInput type="search" placeholder="Busca..." key="searchinput"/>
-            <GiShoppingCart className="text-2xl text-white" />
+            <GiShoppingCart className="text-4xl text-white" />
             {isSidebarOpen && <BlockingLayer handleSidebar={handleSidebar}/>}
             {isSidebarOpen && <SideBar handleSidebar={handleSidebar} />}
         </header>
