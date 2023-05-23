@@ -4,7 +4,7 @@ import itemList from '../../storage.json'
 import "swiper/css";
 import "swiper/css/pagination";
 
-import { Pagination } from "swiper";
+// import { Pagination } from "swiper";
 import ItemCard from "../ItemCard";
 
 export default function ItemDisplayCarousel() {
@@ -30,7 +30,7 @@ export default function ItemDisplayCarousel() {
                 spaceBetween: 50,
               },
             }}
-            modules={[Pagination]}
+//            modules={[Pagination]}
             className="mySwiper"
           >
             {itemList.map((item) => (

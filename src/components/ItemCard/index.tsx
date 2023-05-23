@@ -8,7 +8,7 @@ interface ItemCardProps {
 
 export default function ItemCard(props: ItemCardProps) {
     return (
-        <div className="flex flex-col w-64 bg-white shadow-md p-3 my-7 mb-56 sm:mb-32">
+        <div className="flex flex-col w-64 bg-white shadow-md p-3 my-7 mb-16">
             <img src={`/images/${props.id}.png`} alt={props.name + " imagem"} width={250} height={250} key={`img-${props.id}`}></img>
             <p className="line-clamp-2" key={props.name}>{props.name}</p>
             <p className="text-orange-500 text-2xl font-bold py-4" key={`price-${props.price}`}>R$ {props.price}</p>

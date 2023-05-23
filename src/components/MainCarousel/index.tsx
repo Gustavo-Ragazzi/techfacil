@@ -4,7 +4,7 @@ import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 
-import { Pagination, Navigation } from "swiper";
+// import { Pagination, Navigation } from "swiper";
 
 export default function MainCarousel() {
     return (
@@ -17,7 +17,7 @@ export default function MainCarousel() {
                 clickable: true,
                 }}
                 navigation={true}
-                modules={[Pagination, Navigation]}
+//                modules={[Pagination, Navigation]}
                 className="mySwiper"
             >
                 <SwiperSlide><img src="./images/15.png" alt="MSI RTX4090" className="m-auto" /></SwiperSlide>

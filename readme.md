@@ -1,15 +1,15 @@
-## Tech Fácil
-Site de vendas feito com React.
+# TechFacil
+**TechFacil** é uma Landing Page construída com React e TailwindCSS.<br>
+O objetivo deste projeto é fornecer um exemplo prático de criação de um carrossel e um menu lateral.
 
-```
-Página web e-commerce responsiva de hardware
-Carrossel
-Menu hamburger animado
+## Design
+O design foi inspirado nos sites da Kabum e da Alura.
 
-Input de busca
-Carrinho de compras
-Favoritos
-Filtro
-Ordenar por menor e maior valor
-Descontos e parcelamentos
-Dark/Day Mode
+## Funcionalidades
+- Renderização de uma lista de cards a partir de um arquivo JSON.
+- Exibição dos cards em formato de carrossel, proporcionando uma experiência interativa ao usuário.
+
+## Recursos Futuros
+- Criação de uma página que será carregada ao clicar em "Ver mais". Essa página terá uma lista com uma exibição aprimorada dos itens.
+- Implementação da funcionalidade da lista de compras, permitindo ao usuário adicionar itens à lista e gerenciar suas compras.
+- Adição da funcionalidade da barra de busca e outros filtros, para facilitar a navegação e localização de conteúdo específico.
